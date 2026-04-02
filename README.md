@@ -1,4 +1,4 @@
-# UAFN — Urban Air Forecast Network
+# UAFN Urban Air Forecast Network
 
 **Air Quality Forecasting in Urban Areas Using Graph Neural Networks**
 
