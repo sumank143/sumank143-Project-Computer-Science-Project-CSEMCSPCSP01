@@ -3,7 +3,7 @@
 **Air Quality Forecasting in Urban Areas Using Graph Neural Networks**
 
 > IU International University of Applied Sciences  
-> Course: Project — Computer Science Project (CSEMCSPCSP01)
+> Course: Project Computer Science Project (CSEMCSPCSP01)
 
 ---
 
